@@ -31,14 +31,3 @@ I'm 18 years old and passionate about programming, problem-solving, and technica
 - 🌱 Always learning and looking for new challenges
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Otavio-PR&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-PR&layout=compact" alt="Top languages" />
-</p>
-
----
