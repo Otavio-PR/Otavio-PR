@@ -2,7 +2,7 @@
 
 # I'm Otávio
 
-I'm 18 years old and passionate about programming, problem-solving, and technical challenges. I'm also a scout, which taught me discipline, teamwork, and leadership — values I bring into everything I do, including my code.
+I'm 18 years old and passionate about programming, problem-solving, and technical challenges. I'm also a scout, which taught me discipline, teamwork, and leadership, values I bring into everything I do, including my code.
 
 ---
 
